@@ -12,7 +12,8 @@ A **data structure** is a way of organizing and storing data so that it can be a
 1. **Arrays**:
    - A collection of elements, each identified by an index.
    - Example: `int arr[5] = {1, 2, 3, 4, 5};`
-   - Accessing an element: `arr[2]` gives `3` (constant time: O(1)).
+   - Accessing an element: `arr[2]` gives `3` (constant time: O(1)).    
+    - Learn more about common array operations and their time and space complexities [here](./Array.md).
 
 2. **Linked Lists**:
    - A linear collection of elements, where each element points to the next.
