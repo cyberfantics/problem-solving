@@ -1,6 +1,4 @@
-## 840. Magic Squares In Grid
-
-**Problem:**  
+## Problem:  
 Alice and Bob are playing a game. Initially, Alice has a string `word = "a".`
 
 You are given a positive integer `k`. You are also given an integer array operations, where `operations[i]` represents the type of the ith operation.
